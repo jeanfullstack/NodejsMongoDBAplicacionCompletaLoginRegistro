@@ -19,14 +19,6 @@ This app needs the following environment Variables
 - `MONGODB_DATABASE` Mongodb database name
 - `NODE_ENV` node environment
 
-# Docker
-
-you can run a container for development
-
-```shell
-npm install
-docker-compose up
-```
 
 ## Default User
 
@@ -35,9 +27,6 @@ when the app is lauched, this will create an Admin user with the following crede
 - email: admin@localhost
 - password: adminpassword
 
-# Recursos
 
-- [Materia Bootswatch](https://www.bootstrapcdn.com/bootswatch/)
-- [CSS Background uiGradients](https://uigradients.com/#Dull)
 
 
